@@ -9,8 +9,8 @@ The Product Allocation Dashboard is an Excel-based tool designed to streamline t
 <h2>Languages and Utilities Used</h2>
 
 - <b>Excel</b>
-- <b>Macros/Scripts</b>
 - <b>Tables</b>
+- <b>Macros/Scripts</b>
 
 
 <br><br>
