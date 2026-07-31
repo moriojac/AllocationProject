@@ -23,7 +23,7 @@ The Product Allocation Dashboard is an Excel-based tool designed to streamline t
   <tr>
     <td align="center" valign="top" width="33%">
       <div>
-        <img src="DepopProject_P1.png" style="width: 90%; height: 300px; object-fit: cover;" />
+        <img src="AllocationProject_P1.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Data Integration</b>
         <br>
         <h6 style="text-align: center; min-height: 150px; font-size: 2px;">
