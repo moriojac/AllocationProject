@@ -1,4 +1,4 @@
-<h1>Product Allocation Dashboard - <a href="./Product Allocation Dashboard.xlsx" download>Excel Sheet</a> </h1>
+<h1>Product Allocation Dashboard - <a href="./Product Allocation Dashboard.xlsx" download>Sample Excel Sheet</a> </h1>
 
 
 <h2>Description</h2>
