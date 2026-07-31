@@ -21,7 +21,7 @@ The Product Allocation Dashboard is an Excel-based tool designed to streamline t
 
 <table width="100%" style="table-layout: fixed;">
   <tr>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <div>
         <img src="DepopProject_P1.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Data Collection</b>
@@ -32,7 +32,7 @@ The Product Allocation Dashboard is an Excel-based tool designed to streamline t
         </h6>
       </div>
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <div>
         <img src="DepopProject_P2.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Data Cleaning and Preparation</b>
@@ -43,7 +43,7 @@ The Product Allocation Dashboard is an Excel-based tool designed to streamline t
         </h6>
       </div>
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <div>
         <img src="DepopProject_P3.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Data Visualization & Storytelling</b>
@@ -57,16 +57,6 @@ The Product Allocation Dashboard is an Excel-based tool designed to streamline t
         </h6>
       </div>
     </td>
-    <td align="center" valign="top" width="25%">
-      <div>
-        <img src="DepopProject_P4.png" style="width: 90%; height: 300px; object-fit: cover;" />
-        <b>Interpretation & Decision-Making</b>
-        <h6 style="text-align: center; min-height: 150px;">
-          The goal of this data is to generate insights that support the growth and efficiency of my personal Depop business, allowing me to interpret trends and make informed data-driven decisions.
-         <br><br> Insights from the data help me refine sourcing strategies, focus on the most profitable brands and categories, adjust pricing based on seasonal demand, and better   
-         understand buyer behavior to increase overall sales performance.
-        </h6>
-      </div>
-    </td>
+   
   </tr>
 </table>
