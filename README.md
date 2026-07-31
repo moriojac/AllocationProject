@@ -24,36 +24,28 @@ The Product Allocation Dashboard is an Excel-based tool designed to streamline t
     <td align="center" valign="top" width="33%">
       <div>
         <img src="DepopProject_P1.png" style="width: 90%; height: 300px; object-fit: cover;" />
-        <b>Data Collection</b>
+        <b>Data Integration</b>
         <br>
         <h6 style="text-align: center; min-height: 150px; font-size: 2px;">
-          This project is based on sales transaction data gathered from my own Depop business operations throughout 2024. Transfered and reconsoiled sales data from Depop to Excel.
-          <br><br> <a href="https://www.depop.com/moriojac/">My Depop Page</a>
+          Order, inventory, and product data from multiple Excel workbooks were consolidated into a single allocation model. The data was organized and standardized to ensure consistency across product SKUs, quantities, labels, lot information, and order status, creating a reliable foundation for the allocation process.
         </h6>
       </div>
     </td>
     <td align="center" valign="top" width="33%">
       <div>
         <img src="DepopProject_P2.png" style="width: 90%; height: 300px; object-fit: cover;" />
-        <b>Data Cleaning and Preparation</b>
+        <b>Allocation Engine</b>
         <h6 style="text-align: center; min-height: 150px;">
-          Data of all 340 sales from 2024 was manually entered into an Excel spreadsheet through a custom data validation system.
-          <br><br>
-          Then the data was cleaned and standardized to ensure consistency across categories such as item type, date of sale, source of inventory and profit. This ensured the dataset was accurate, complete, consistent, and ready for analysis.
+          Custom business logic was developed to automatically evaluate allocation opportunities between sales orders. The tool analyzes inventory availability, requested quantities, label compatibility, and fulfillment status to identify products that can be reallocated while minimizing warehouse rework and unnecessary relabeling.
         </h6>
       </div>
     </td>
     <td align="center" valign="top" width="33%">
       <div>
         <img src="DepopProject_P3.png" style="width: 90%; height: 300px; object-fit: cover;" />
-        <b>Data Visualization & Storytelling</b>
+        <b>Decision Dashboard</b>
         <h6 style="text-align: center; min-height: 150px;">
-          Data is manipulated into 5 different interactive visualizations, with corresponding pivot tables, slicers, and graphs:
-          <br><br> Store: Displays profitability by original sourcing location to identify which sources generate the highest returns.
-          <br><br> Category: Displays sales performance by product category to identify top-selling item types.
-          <br><br> Date: Displays sales and revenue trends over time to identify peak months and seasonal patterns.
-          <br><br> Brand: Displays sales performance by brand to identify the most popular and profitable labels.
-          <br><br> Size: Displays sales distribution by clothing size to identify which sizes sell most frequently.
+          The processed allocation data is presented through an interactive Excel dashboard that allows users to search for fulfillment opportunities by either taking products from existing orders or giving products to other orders. The dashboard displays the most viable allocation options based on business rules, enabling faster fulfillment decisions, improving inventory utilization, and reducing the manual effort required to evaluate allocation scenarios.
         </h6>
       </div>
     </td>
