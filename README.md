@@ -2,15 +2,15 @@
 
 
 <h2>Description</h2>
-This interactive dashboard analyzes sales performance for my personal Depop business, an online resale shop where I manage inventory, pricing, customer communication, and shipping logistics. The dashboard offers a detailed breakdown of key metrics such as monthly revenue, sales volume, and product category trends. Built to track and optimize real-world performance, the dashboard features dynamic filtering and clear visualizations to highlight sales trends over time and identify top-performing items. It provides valuable insights into customer purchasing behavior, ultimately supporting data-driven strategies to grow and manage my online retail business effectively. Full business process documentation can be found here: <a href="./Depop_ProcessDocumentation.pdf" download>Process Documentation</a> </h1>
+The Product Allocation Dashboard is an Excel-based tool designed to streamline the product allocation process by identifying fulfillment opportunities across existing sales orders. It allows users to search for products that can be allocated from other orders to fulfill shortages or determine whether a product can be reallocated to another order based on demand. The dashboard automatically evaluates available quantities, label compatibility, and fulfillment status to present the most viable allocation options while minimizing unnecessary relabeling and warehouse rework. By consolidating allocation data into a single interface, it reduces manual searching, improves inventory utilization, and enables faster, more informed fulfillment decisions. The tool helps optimize order processing while supporting efficient inventory management across multiple international orders.</a> </h1>
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>Excel</b>
-- <b>PivotTables</b>
-- <b>Slicers</b>
+- <b>Macros/Scripts</b>
+- <b>Tables</b>
 
 
 <br><br>
