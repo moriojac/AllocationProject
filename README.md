@@ -27,7 +27,7 @@ The Product Allocation Dashboard is an Excel-based tool designed to streamline t
         <b>Data Integration</b>
         <br>
         <h6 style="text-align: center; min-height: 150px; font-size: 2px;">
-          Order, inventory, and product data from multiple Excel workbooks were consolidated into a single allocation model. 
+          Order, sales, and product data from multiple sources were consolidated into a single allocation model. 
           <br><br> The data was organized and standardized to ensure consistency across product SKUs, quantities, labels, and order status, creating a reliable foundation for the allocation process.
         </h6>
       </div>
